@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
+import Footer from "./components/Footer"
 import About from "./components/About";
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
 	const renderTab = () => {
 		switch (currentTab) {
 			case "about":
-				return <About />;
+				return <About/>;
 		}
 	};
 
@@ -20,6 +21,9 @@ function App() {
 			<div>
 				<main>{renderTab()}</main>
 			</div>
+      <div>
+        <Footer></Footer>
+      </div>
 		</div>
 	);
 };
