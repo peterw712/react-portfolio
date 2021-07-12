@@ -1,4 +1,6 @@
 import React from "react";
+import Github from "../../assets/images/github-logo.png";
+import Linkedin from "../../assets/images/linkedin-logo.png";
 
 function Footer() {
 	return (
@@ -10,7 +12,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/images/github-logo.png")}
+						src={Github}
 						alt="Github"
 						className="logo"
 					></img>
@@ -23,7 +25,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/images/linkedin-logo.png")}
+						src={Linkedin}
 						alt="LinkedIn"
 						className="logo"
 					></img>
