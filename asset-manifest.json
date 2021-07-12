@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.eb2e8c33.chunk.css",
+    "main.js": "/photo-port/static/js/main.aa59e614.chunk.js",
+    "main.js.map": "/photo-port/static/js/main.aa59e614.chunk.js.map",
+    "runtime-main.js": "/photo-port/static/js/runtime-main.2c0b48c3.js",
+    "runtime-main.js.map": "/photo-port/static/js/runtime-main.2c0b48c3.js.map",
+    "static/js/2.3fb1fc9a.chunk.js": "/photo-port/static/js/2.3fb1fc9a.chunk.js",
+    "static/js/2.3fb1fc9a.chunk.js.map": "/photo-port/static/js/2.3fb1fc9a.chunk.js.map",
+    "static/js/3.486dfac6.chunk.js": "/photo-port/static/js/3.486dfac6.chunk.js",
+    "static/js/3.486dfac6.chunk.js.map": "/photo-port/static/js/3.486dfac6.chunk.js.map",
+    "index.html": "/photo-port/index.html",
+    "static/css/main.eb2e8c33.chunk.css.map": "/photo-port/static/css/main.eb2e8c33.chunk.css.map",
+    "static/js/2.3fb1fc9a.chunk.js.LICENSE.txt": "/photo-port/static/js/2.3fb1fc9a.chunk.js.LICENSE.txt",
+    "static/media/habit-tracker.png": "/photo-port/static/media/habit-tracker.069ec8fc.png",
+    "static/media/opinion-guess.jpeg": "/photo-port/static/media/opinion-guess.513569d7.jpeg",
+    "static/media/peters-resume.0536e197.pdf": "/photo-port/static/media/peters-resume.0536e197.pdf",
+    "static/media/self.jpg": "/photo-port/static/media/self.76b4ae98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c0b48c3.js",
+    "static/js/2.3fb1fc9a.chunk.js",
+    "static/css/main.eb2e8c33.chunk.css",
+    "static/js/main.aa59e614.chunk.js"
+  ]
+}
